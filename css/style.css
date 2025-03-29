@@ -1,1 +1,23 @@
 /* STYLING */
+
+h1 {
+    font-size: 4em;
+}
+
+body {
+    text-align: center;
+    background: url(/img/thumbbig-1351770.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+input,
+button {
+    font-size: 3em;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
